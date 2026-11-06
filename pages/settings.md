@@ -157,8 +157,8 @@ When all places are in use, HinterOS asks you to close an app before it opens th
 
 ### Remote access
 
-SSH turns on remote login. To change it, type the admin password. When SSH is on, log in as the admin account at the network name, for example hinteros.local. Refer to [Administration](admin.md).
+SSH turns on remote login. To change it, type the admin password. When SSH is on, the screen shows the IP address of the box. Log in at that address as the admin account. Refer to [Administration](admin.md).
 
 ### About
 
-About shows the Version, Channel, Software base, Revision, Generation, Name on the network and the SSH host key.
+About shows the Version, Channel, Software base, Revision, Generation, Host name, IP address and the SSH host key.

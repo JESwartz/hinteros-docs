@@ -81,7 +81,7 @@ On a computer on the same network, type:
 ssh <admin>@<address>
 ```
 
-Replace `<admin>` with the user name of the admin account. Replace `<address>` with the address that Settings → Network shows. When SSH is on, Remote access also shows the name of the box on the network. You can try this name in place of the address.
+Replace `<admin>` with the user name of the admin account. Replace `<address>` with the address that Settings → Network shows. When SSH is on, Remote access also shows this address.
 
 The first time that you connect, `ssh` shows a key fingerprint. Compare it with the SSH host key in Settings → System → About. If they are not the same, do not continue.
 
