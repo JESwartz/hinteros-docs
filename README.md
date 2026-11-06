@@ -5,7 +5,7 @@ TV operating system for living-room computers. The website shows these pages at
 https://hinteros.org/docs/.
 
 For development information, refer to the READMEs in the
-[source repositories](https://justsomeshed.com/JSwartz/HinterOS).
+[source repositories](https://git.hinteros.org).
 
 ## Pages
 

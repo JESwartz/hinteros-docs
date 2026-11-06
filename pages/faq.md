@@ -72,4 +72,4 @@ Yes. The box can run a Jellyfin server or a Plex Media Server. For more informat
 
 ## Where do I report a problem?
 
-Report problems in the [source repositories](https://justsomeshed.com/JSwartz/HinterOS). Add the logs from `hinteros-save-log` or `hinteros-diagnose`. For more information, refer to [Troubleshooting](troubleshooting.md).
+Report problems in the [source repositories](https://git.hinteros.org). Add the logs from `hinteros-save-log` or `hinteros-diagnose`. For more information, refer to [Troubleshooting](troubleshooting.md).
