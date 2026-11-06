@@ -1,0 +1,58 @@
+# The documentation pages in reading order. Each page is pages/<slug>.md and is served at
+# https://hinteros.org/docs/<slug>/. "summary" is the line on the overview page.
+
+[[page]]
+slug = "install"
+summary = "Install HinterOS and do first-time setup."
+
+[[page]]
+slug = "controls"
+summary = "Buttons, keys, the on-screen keyboard and the pointer."
+
+[[page]]
+slug = "profiles"
+summary = "Profiles, PINs and the Guest profile."
+
+[[page]]
+slug = "apps"
+summary = "The Store, app permissions and the sandbox."
+
+[[page]]
+slug = "steam"
+summary = "Steam accounts, games and the Steam menu."
+
+[[page]]
+slug = "server"
+summary = "Jellyfin, Plex, Tailscale and Cloudflare Tunnel."
+
+[[page]]
+slug = "network"
+summary = "Wi-Fi, Ethernet and SSH."
+
+[[page]]
+slug = "settings"
+summary = "Settings groups, storage, clean-up, display and sound."
+
+[[page]]
+slug = "accessibility"
+summary = "Text size, contrast, motion and other accessibility settings."
+
+[[page]]
+slug = "updates"
+summary = "Channels, signed updates and rollback."
+
+[[page]]
+slug = "admin"
+summary = "The admin account, admin PIN, SSH and console commands."
+
+[[page]]
+slug = "privacy"
+summary = "What the box sends on the network and how HinterOS keeps apps apart."
+
+[[page]]
+slug = "troubleshooting"
+summary = "Installer start problems, network problems and logs."
+
+[[page]]
+slug = "faq"
+summary = "Frequently asked questions."
